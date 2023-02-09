@@ -1,4 +1,4 @@
-## _Aprendiendo a programar.(Siendo muy mala para esto)_ 
+## _Con pequeños pasos aprendiendo a programar._ 
 ### **Desarrollado por Ana Maria De Felipe Briñez.**
  1. Ejecución en VScode
  * Primero se comenzo, escribiendo el codigo en VSCode. 
