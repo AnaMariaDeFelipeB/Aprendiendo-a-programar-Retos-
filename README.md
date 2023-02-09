@@ -1,7 +1,7 @@
 ## _Con pequeños pasos aprendiendo a programar._ 
 ### **Desarrollado por Ana Maria De Felipe Briñez.**
  1. Ejecución en VScode
- * Primero se comenzo, escribiendo el codigo en VSCode. 
+ * Primero se comenzo escribiendo el codigo en VSCode. 
 ! [Proceso](https://drive.google.com/file/d/1BNG4ioWsYfSwVBN-cI3gNU-4MNGAeze1/view?usp=share_link)
 * En segundo lugar, se ejecuto. 
 ! [Ejecución](https://drive.google.com/file/d/1CSeo_ta3B-2RY0bnm7-l_HfJ7922rhTm/view?usp=share_link)
