@@ -2,12 +2,12 @@
 ### **Desarrollado por Ana Maria De Felipe Briñez.**
  1. Ejecución en VScode
  * Primero se comenzo escribiendo el codigo en VSCode. 
- ![Proceso](https://postimg.cc/TpF9xS1z)
+ ![Proceso](https://i.postimg.cc/VkqLCMz8/Diapositiva1.png)
 * En segundo lugar, se ejecuto. 
-! [Ejecución](https://drive.google.com/file/d/1CSeo_ta3B-2RY0bnm7-l_HfJ7922rhTm/view?usp=share_link)
+![Ejecución](https://i.postimg.cc/8zPnRgSz/VSCODE.png)
 2. Ahora bien, lo ejecute directamente en el interprete de Python. 
-* ! [Python](https://drive.google.com/file/d/1CSeo_ta3B-2RY0bnm7-l_HfJ7922rhTm/view?usp=share_link) 
+![Python](https://i.postimg.cc/RhYqgzYx/Interpretedepython.jpg) 
 3. Finalmente, también lo ejecute en Bloc de notas. 
-* ! [Parte1](https://drive.google.com/file/d/1Z1P-myrhhzn2-gkKOMFfodawaJPEFJoo/view?usp=share_link)
-* ! [Parte2](https://drive.google.com/file/d/1fJ48DOWlNmQwI0vUfNAZXoYGuOy9TP3b/view?usp=share_link) 
+![Parte1](https://i.postimg.cc/BnrHq2Mf/BLOCNOTAS1.png)
+![Parte2](https://i.postimg.cc/503CqT1f/BLOCNOTAS2.png) 
 ##### En fin, esto fue un poco del proceso llevado a cabo. Lentamente vamos aprendiendo. 
