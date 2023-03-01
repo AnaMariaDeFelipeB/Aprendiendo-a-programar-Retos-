@@ -1,5 +1,7 @@
 ## _Con pequeños pasos aprendiendo a programar._ 
 ### **Desarrollado por Ana Maria De Felipe Briñez.**
+
+Bueno en este repositorio evidenciare el desarrollo llevado a cabo para probar el correcto funcionamiento de las herramientas que utilizare en clase de programación. 
  1. Ejecución en VScode
  
  * Primero se comenzo escribiendo el codigo en VSCode. 
